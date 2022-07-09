@@ -1,2 +1,5 @@
 images/*
 download.bat
+ignore
+__pycache__
+log.txt
