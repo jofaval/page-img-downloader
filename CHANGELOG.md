@@ -2,6 +2,12 @@
 
 All the changes made to this repository/project
 
+## 2022-07-10
+
+### Added
+
+- Added a License (GPL) to the package.
+
 ## 2022-07-09
 
 ### Added
